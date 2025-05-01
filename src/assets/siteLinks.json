@@ -33,6 +33,11 @@
     "icon": "Home",
     "name": "樱花主页",
     "link": "https://home.deep-sea.dpdns.org/"
+  },
+  {
+    "icon": "FacebookMessenger",
+    "name": "临时邮箱",
+    "link": "https://mail.deep-sea.dpdns.org/"
   }
 
 ]
