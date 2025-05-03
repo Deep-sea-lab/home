@@ -5,7 +5,7 @@
     "link": "https://blog.deep-sea.dpdns.org/"
   },
   {
-    "icon": "Cloud",
+    "icon": "Api",
     "name": "Meting-API",
     "link": "https://api-meting.deep-sea.dpdns.org"
   },
@@ -35,7 +35,7 @@
     "link": "https://home.deep-sea.dpdns.org/"
   },
   {
-    "icon": "FacebookMessenger",
+    "icon": "Email",
     "name": "临时邮箱",
     "link": "https://mail.deep-sea.dpdns.org/"
   },
@@ -43,5 +43,10 @@
     "icon": "Bug",
     "name": "感情促进器",
     "link": "https://happy.deep-sea.dpdns.org/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "聊天室",
+    "link": "https://chat.deep-sea.dpdns.org/"
   }
 ]
